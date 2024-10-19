@@ -24,7 +24,7 @@ public class Task10 {
             case 3: result= (n1*n2) ;
             System.out.println("The operatior is division :" + result); break;
             case 4: result= (n1/n2) ;
-                System.out.println("The operatior division :" + result); break;
+                System.out.println("The operatior is division :" + result); break;
             default:
                 System.out.println("invalid operation");
         }
